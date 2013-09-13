@@ -7,10 +7,10 @@ Gem::Specification.new do |spec|
   spec.name          = "gimmick-inflection"
   spec.version       = Gimmick::Inflection::VERSION
   spec.authors       = ["masahiro yanai"]
-  spec.email         = ["yanai_masahiro@cyberagent.co.jp"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.email         = ["yanap1214@gmail.com"]
+  spec.description   = %q{gimmick ruby gem. change to end of a sentence.}
+  spec.summary       = %q{I want to change to various end of a sentence.}
+  spec.homepage      = "https://github.com/yanap/gimmick-inflection"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
